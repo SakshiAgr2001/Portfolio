@@ -1,2 +1,2 @@
-# Portfolio
-Personal Portfolio - College Students
+# Github-practice
+THIS IS TO SHOW HOW TO COMMIT CHANGES
