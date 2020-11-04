@@ -1,2 +1,2 @@
-# Github-practice
-THIS IS TO SHOW HOW TO COMMIT CHANGES
+# Personal Portfolio
+A student portfolio is a compilation of academic work and other forms of educational evidence assembled for the purpose of evaluating coursework quality, learning progress, and academic achievement; 
